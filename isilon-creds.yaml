@@ -1,0 +1,8 @@
+isilonClusters:
+  - clusterName: "cluster-01"
+    username: "openshift"
+    password: "Dellsvcs1!"
+    endpoint: "192.168.41.30"
+    endpointPort: "8080"
+    isDefault: true
+    isiPath: "/ifs/openshift"
